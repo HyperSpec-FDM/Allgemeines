@@ -3,6 +3,7 @@
 ## Meilensteine
 
 ### M1.1: Projektstruktur abgeschlossen
+- Gantt chart ertsellt
 ### M2.1: Organisationelle Anforderungen aufgenommen
 ### M2.2: domänenspezifische Anforderungen aufgenommen
 ### M2.3: generelle Informationen öffentlich
