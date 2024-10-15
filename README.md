@@ -30,9 +30,9 @@ Anforderungen der Arbeitsgruppen
 - Geräteschnittstellen herausarbeiten
 - Datenflussmodell BPMN
 ### M3.3: Containerspezifikation abgeschlossen
-[Repository Test-Deployment]([https://github.com/HyperSpec-FDM/DMP/tree/main](https://github.com/HyperSpec-FDM/dataverse-kubernetes))
+[Repository Test-Deployment](https://github.com/HyperSpec-FDM/dataverse-kubernetes)
 ### M3.4: Test-Deployments erfolgreich
-[Repository Test-Deployment]([https://github.com/HyperSpec-FDM/DMP/tree/main](https://github.com/HyperSpec-FDM/dataverse-kubernetes))
+[Repository Test-Deployment](https://github.com/HyperSpec-FDM/dataverse-kubernetes)
 ### M3.5: Schulungsmaterial verfügbar
 ### M3.6: Integration abgeschlossen
 ### M4.1: Projektwebsite
